@@ -1,7 +1,5 @@
 # Task 4 — Complex Form Validation & Dynamic DOM Manipulation
 
-**Cognifyz Technologies — Web Development Internship**
-Level 2 · Intermediate · Task 4
 
 🔗 **Live Demo:** [https://form-validation-108h.onrender.com](https://form-validation-108h.onrender.com)
 
